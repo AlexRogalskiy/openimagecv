@@ -16,11 +16,11 @@ sourceSets {
 }
 
 dependencies {
-  compileOnly 'org.projectlombok:lombok:1.18.22'
-  annotationProcessor 'org.projectlombok:lombok:1.18.22'
+  compileOnly 'org.projectlombok:lombok:1.18.36'
+  annotationProcessor 'org.projectlombok:lombok:1.18.36'
 
-  testCompileOnly 'org.projectlombok:lombok:1.18.22'
-  testAnnotationProcessor 'org.projectlombok:lombok:1.18.22'
+  testCompileOnly 'org.projectlombok:lombok:1.18.36'
+  testAnnotationProcessor 'org.projectlombok:lombok:1.18.36'
 
   implementation 'net.logstash.logback:logstash-logback-encoder:7.0.1'
   implementation 'ch.qos.logback.contrib:logback-jackson:0.1.5'
