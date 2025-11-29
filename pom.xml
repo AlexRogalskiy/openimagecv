@@ -116,7 +116,7 @@
 
         <logback.version>1.5.16</logback.version>
         <logback-contrib.version>0.1.5</logback-contrib.version>
-        <lombok.version>1.18.30</lombok.version>
+        <lombok.version>1.18.42</lombok.version>
 
         <maven-plugin-os.version>1.7.1</maven-plugin-os.version>
         <maven-clean-plugin.version>3.3.2</maven-clean-plugin.version>
